@@ -1,8 +1,0 @@
-setup.py
-szreport/__init__.py
-szreport/sz.py
-szreport.egg-info/PKG-INFO
-szreport.egg-info/SOURCES.txt
-szreport.egg-info/dependency_links.txt
-szreport.egg-info/requires.txt
-szreport.egg-info/top_level.txt
